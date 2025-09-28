@@ -14,7 +14,7 @@
 
 ---
 
-## アプリ政策
+## アプリ制作
 
 https://github.com/ninomiya-t123/community-events-app
 
