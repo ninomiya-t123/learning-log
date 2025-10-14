@@ -13,26 +13,30 @@ JavaScriptのコーディングスキルを習得し、<br>
 |------|------|------|------|
 | 2025/09/07 | | paizaラーニング受講開始(Javascript 体験編) | 2:75 |
 | 2025/09/20 | | 地域コミュニティイベント管理アプリ作成 | 25:00 |
+| 2025/10/06 || Udemy講座受講開始(モダンJavaScriptの基礎から始める挫折しないためのReact入門) | 2.50 |
 
 ---
 
 ## 📱 成果物
 
-地域コミュニティイベント管理アプリ <br>
+* 地域コミュニティイベント管理アプリ <br>
 https://community-events-app.vercel.app/
+　<details> <summary>現在開発途中⚙️</summary>
+  ※以下で作業中 <br>
+　https://github.com/ninomiya-t123/community-events-app/tree/develop?tab=readme-ov-file　<br>
+　開発中リンク↓ <br>
+　https://community-events-app-git-develop-ninomiyas-projects-e8edb712.vercel.app/
+　</details>
 
-現在開発途中⚙️ <br>
-※以下で作業中 <br>
-https://github.com/ninomiya-t123/community-events-app/tree/develop?tab=readme-ov-file
 
-開発中リンク↓
-https://community-events-app-git-develop-ninomiyas-projects-e8edb712.vercel.app/
+ * TODOアプリ <br>
+https://github.com/ninomiya-t123/todo-app/
 
 ---
 
 ## 🕛 更新日付
 
-2025/10/06 更新
+2025/10/14 更新
 
-現在は、アプリ制作を進めている状況。
-AIを活用し、コードを理解しつつ機能追加を進めていく。
+地域コミュニティイベント管理アプリ制作をAIを活用し、コードを理解しつつ機能追加を進めている。<br>
+javascriptやReactの基礎部分については、Udemyの講座を活用して勉強中。
