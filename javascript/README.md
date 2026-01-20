@@ -26,6 +26,8 @@ https://community-events-app.vercel.app/
 　https://github.com/ninomiya-t123/community-events-app/tree/develop?tab=readme-ov-file　<br>
 　開発中リンク↓ <br>
 　https://community-events-app-git-develop-ninomiyas-projects-e8edb712.vercel.app/
+
+　→　開発途中の者はmainにマージできたため、現在は差分なし(2026/1/20現在)。
 　</details>
 
 
@@ -36,7 +38,7 @@ https://github.com/ninomiya-t123/todo-app/
 
 ## 🕛 更新日付
 
-2025/10/14 更新
+2026/1/20 更新
 
 地域コミュニティイベント管理アプリ制作をAIを活用し、コードを理解しつつ機能追加を進めている。<br>
 javascriptやReactの基礎部分については、Udemyの講座を活用して勉強中。
