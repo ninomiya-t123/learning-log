@@ -7,38 +7,37 @@
 ---
 
 ## 📂 ディレクトリ構成
-
 ```text    
 learning-log/
+├─ cloud/
+│  └─ aws/
 ├─ coding/
 │  ├─ c#/
 │  └─ javascript/
-├─ cloud/
-│  └─ aws/
+├─ daily/
+│   └─ yyyy/            # (例：2026)
+│       ├─ yyyy-Wxx.md  # (例：2026-W15.md)
+│       └─ ...
 ├─ design/
 ├─ english/
-├─ finance/
-└─ daily/
-    └─ yyyy/            # (例：2026)
-        ├─ yyyy-Wxx.md  # (例：2026-W15.md)
-        └─ ...
+└─ finance/
+
 ```
 ## 📌 各ディレクトリの役割
-
-coding：プログラミング（JavaScript / C# など）の学習・コード管理
-cloud：AWSなどクラウド・インフラ関連の学習
-design：設計・デザインに関する知識
-english：英語学習
-finance：投資・経済の学習
-daily：日々の学習ログ（週単位で管理）
+- cloud：AWSなどクラウド・インフラ関連の学習<br>
+- coding：プログラミング（JavaScript / C# など）の学習・コード管理<br>
+- daily：日々の学習ログ（週単位で管理）<br>
+- design：設計・デザインに関する知識<br>
+- english：英語学習<br>
+- finance：投資・経済の学習
 
 ---
 
 ## 🧠 学習ログ運用ルール
-日々の学習は 個人メモ（Notionなど）に記録
-週単位（YYYY-Wxx.md）で daily/ にまとめて更新
-詳細な知識は各分野の notes/ に蓄積
-dailyには「要点のみ」を記載
+- 日々の学習は 個人メモ（Notionなど）に記録
+- 週単位（YYYY-Wxx.md）で daily/ にまとめて更新
+- 詳細な知識は各分野の notes/ に蓄積
+- dailyには「要点のみ」を記載
 
 ---
 
@@ -50,17 +49,17 @@ dailyには「要点のみ」を記載
 <絵文字 type>: <技術 or 対象>の<学習内容>を<変更内容>
 
 ### 🏷 type一覧
-📝 docs: 学習ログ・READMEなどの記録更新
-📘 study: 学習内容の追加・知識の記録
-🧠 notes: 技術ノート・まとめの追加/更新
-♻️ refactor: 構成整理（ディレクトリ・ファイル整理）
-🐛 fix: 記録ミス・誤字・内容修正
-🔥 chore: 雑務（設定・環境・フォルダ作成など）
+📝 docs: 学習ログ・READMEなどの記録更新<br>
+📘 study: 学習内容の追加・知識の記録<br>
+🧠 notes: 技術ノート・まとめの追加/更新<br>
+♻️ refactor: 構成整理（ディレクトリ・ファイル整理）<br>
+🐛 fix: 記録ミス・誤字・内容修正<br>
+🔥 chore: 雑務（設定・環境・フォルダ作成など）<br>
+🎨 style: フォーマット・見た目調整
 
 ---
 
 ## 🏆 学習マイルストーン
-
 - 2025/07 C# 学習開始 
 - 2025/08 AWS 学習開始
 - 2025/09 Git導入・learning-log記録開始
